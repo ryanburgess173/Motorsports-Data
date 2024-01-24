@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FeMqcIAtEtLlGgxFeQ9zaAykRxgHxDGDhlV9p9HnW0vGSdaZVAtX0ygU1+6u2sBn4G7SRPr+g2htlvhi8IXeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan Burgess\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ryan Burgess\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.csproj.AssemblyReference.cache
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.AssemblyInfoInputs.cache
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.AssemblyInfo.cs
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\bin\Debug\netstandard2.0\RacingCultureStatsAPI.Business.deps.json
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\bin\Debug\netstandard2.0\RacingCultureStatsAPI.Business.dll
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\bin\Debug\netstandard2.0\RacingCultureStatsAPI.Business.pdb
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.dll
+C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\obj\Debug\netstandard2.0\RacingCultureStatsAPI.Business.pdb
