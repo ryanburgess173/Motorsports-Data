@@ -4,9 +4,15 @@ using System.Text;
 
 namespace RacingCultureStatsAPI.Business.Models
 {
-    class Driver
+    public class Driver
     {
         public int DriverId { get; set; }
-        public string DriverName { get; set; }
+        public string DriverFirstName { get; set; }
+        public string DriverMiddleName { get; set; }
+        public string DriverLastName { get; set; }
+        public DateTime DOB { get; set; }
+        public string CityBorn { get; set; }
+        public string StateBorn { get; set; }
+        public string CountryBorn { get; set; }
     }
 }

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj": {}
+    "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj": {
+    "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
         "projectName": "RacingCultureStatsAPI.Business",
-        "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
+        "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
         "packagesPath": "C:\\Users\\Ryan Burgess\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\obj\\",
+        "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Ryan Burgess\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -40,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "netstandard2.0": {
@@ -59,32 +63,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj": {
+    "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.DAL\\RacingCultureStatsAPI.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj",
-        "projectName": "RacingCultureStatsAPI.Web",
-        "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.DAL\\RacingCultureStatsAPI.DAL.csproj",
+        "projectName": "RacingCultureStatsAPI.DAL",
+        "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.DAL\\RacingCultureStatsAPI.DAL.csproj",
         "packagesPath": "C:\\Users\\Ryan Burgess\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Ryan Burgess\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -97,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj": {
-                "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj"
+              "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj": {
+                "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj"
               }
             }
           }
@@ -107,7 +110,95 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj",
+        "projectName": "RacingCultureStatsAPI.Web",
+        "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj",
+        "packagesPath": "C:\\Users\\Ryan Burgess\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ryan Burgess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj": {
+                "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj"
+              },
+              "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.DAL\\RacingCultureStatsAPI.DAL.csproj": {
+                "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.DAL\\RacingCultureStatsAPI.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net5.0": {
@@ -128,10 +219,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -140,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

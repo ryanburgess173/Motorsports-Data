@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = RacingCultureStatsAPI.Business
-build_property.ProjectDir = C:\Users\Ryan Burgess\source\repos\RacingCultureStatsAPI\RacingCultureStatsAPI.Business\
+build_property.ProjectDir = C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.Business\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

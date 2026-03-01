@@ -181,27 +181,24 @@
   },
   "packageFolders": {
     "C:\\Users\\Ryan Burgess\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
       "projectName": "RacingCultureStatsAPI.Business",
-      "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
+      "projectPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\RacingCultureStatsAPI.Business.csproj",
       "packagesPath": "C:\\Users\\Ryan Burgess\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Business\\obj\\",
+      "outputPath": "C:\\Users\\Ryan Burgess\\source\\repos\\Motorsports-Data\\racing-culture-stats-api-master\\RacingCultureStatsAPI.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\Ryan Burgess\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -220,7 +217,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "netstandard2.0": {
@@ -239,11 +242,12 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

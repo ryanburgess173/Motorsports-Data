@@ -1,0 +1,16 @@
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.AssemblyInfo.cs
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.sourcelink.json
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\bin\Debug\net5.0\RacingCultureStatsAPI.DAL.deps.json
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\bin\Debug\net5.0\RacingCultureStatsAPI.DAL.dll
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\bin\Debug\net5.0\RacingCultureStatsAPI.DAL.pdb
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\bin\Debug\net5.0\RacingCultureStatsAPI.Business.dll
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\bin\Debug\net5.0\RacingCultureStatsAPI.Business.pdb
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCu.FC5CA6FB.Up2Date
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.dll
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\refint\RacingCultureStatsAPI.DAL.dll
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\RacingCultureStatsAPI.DAL.pdb
+C:\Users\Ryan Burgess\source\repos\Motorsports-Data\racing-culture-stats-api-master\RacingCultureStatsAPI.DAL\obj\Debug\net5.0\ref\RacingCultureStatsAPI.DAL.dll

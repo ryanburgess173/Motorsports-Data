@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RacingCultureStatsAPI.Business\RacingCultureStatsAPI.Business.csproj" />
+    <ProjectReference Include="..\RacingCultureStatsAPI.DAL\RacingCultureStatsAPI.DAL.csproj" />
   </ItemGroup>
 
 </Project>

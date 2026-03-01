@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RacingCultureStatsAPI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Text.Json;
+using RacingCultureStatsAPI.Business.Models;
+using RacingCultureStatsAPI.DAL.Services;
+using RacingCultureStatsAPI.DAL;
 
 namespace RacingCultureStatsAPI.Controllers
 {
@@ -15,17 +17,20 @@ namespace RacingCultureStatsAPI.Controllers
     public class RaceDataController : ControllerBase
     {
         [HttpGet]
-        public ActionResult GetARace()
+        [Route("GetRacesForASeason")]
+        public async Task<ActionResult> GetRacesForASeason(int year)
         {
-            Race race = new Race
+            try
             {
-                RaceName="Arizona 300", 
-                RaceDate = new DateTime(2021, 11, 29),
-                NumberOfLaps=312, 
-                Winner="Kyle Busch", 
-                Purse = 100293.54 
-            };
-            return Ok(race);
+                Connection conn = new Connection();
+                EventService eventService = new EventService(conn.databaseConnection);
+                List<Event> events = await eventService.SelectAllEventsByYear(year);
+                string jsonString = JsonSerializer.Serialize(events);
+                return Ok(jsonString);
+            }catch (Exception e){
+                Console.WriteLine(e.ToString());
+                return StatusCode(500, new { error = e.Message });
+            }
         }
     }
 }
